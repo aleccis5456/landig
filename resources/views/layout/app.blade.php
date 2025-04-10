@@ -22,6 +22,7 @@
 </head>
 
 <body class="">
+    @include('landing.header')
     @yield('content')
 
     @yield('scripts')
