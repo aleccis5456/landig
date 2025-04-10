@@ -24,6 +24,8 @@
 <body class="">
     @include('landing.header')
     @yield('content')
+    
+    @include('landing.about')
 
     @yield('scripts')
 </body>
