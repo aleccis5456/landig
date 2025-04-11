@@ -21,13 +21,16 @@
     </script>
 </head>
 
-<body class="">
+<body class="font-poppins">
     @include('landing.header')
+    
     @yield('content')
     
     @include('landing.about')
 
     @include('landing.services')
+
+    @include('landing.gallery')
 
     @yield('scripts')
 </body>

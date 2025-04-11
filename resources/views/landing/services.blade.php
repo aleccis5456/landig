@@ -1,8 +1,8 @@
-<section class="min-h-[400px] pt-12 mb-12 bg-gradient-to-r from-red-50 via-blue-50 to-yellow-50">
+<section class="relative h-auto pt-12 pb-12 bg-gradient-to-r from-gray-100 via-blue-50 to-yellow-50">    
     <div class="container mx-auto ">
         <div class="flex flex-col items-center justify-center py-10">
-            <h2 class="text-3xl font-bold mb-12">Nuestros <span class=""> Servicios </span></h2>
-            <p class="text-lg text-gray-700 mb-12">Desde prendas individuales hasta producciones en masa,
+            <h2 class="text-3xl font-black mb-6 text-shadow-lg">Nuestros <span class=""> Servicios </span></h2>
+            <p class="text-lg text-gray-700 mb-12 text-shadow-lg">Desde prendas individuales hasta producciones en masa,
                 tenemos soluciones para cada necesidad.
             </p>
         </div>
