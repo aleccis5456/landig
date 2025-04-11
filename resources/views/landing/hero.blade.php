@@ -2,7 +2,7 @@
 
 @section('content')
     <section class="relative h-screen flex items-center">       
-        <div><img class="w-full absolute inset-0 bg-cover bg-center" src="{{ asset('imgs/bg-hero.webp') }}" alt="" srcset=""></div>        
+        <div><img class="w-screen h-screen absolute inset-0 bg-cover bg-center" src="{{ asset('imgs/bg-hero.webp') }}" alt="" srcset=""></div>        
         <div class="absolute inset-0 bg-black/50 z-10"></div>
         <div class="relative z-10 w-full text-white text-center px-4 md:px-12 lg:px-24 py-12">
             <h1

@@ -27,6 +27,8 @@
     
     @include('landing.about')
 
+    @include('landing.services')
+
     @yield('scripts')
 </body>
 
